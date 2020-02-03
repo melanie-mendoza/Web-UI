@@ -288,8 +288,24 @@ h1 {
   width: 1200px;
   padding-top: 10%;
 }
+.team {
+  width: 1200px;
+}
+.about-andrew {
+  background-color: rgb(187, 247, 244);
+}
+.about-michael {
+  background-color: rgb(187, 247, 244);
+}
+.about-tommy {
+  background-color: rgb(187, 247, 244);
+}
+.about-melanie {
+  background-color: rgb(187, 247, 244);
+}
 footer {
   margin-top: 10%;
   margin-left: 650px;
   width: 600px;
 }
+
